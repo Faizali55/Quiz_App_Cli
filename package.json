@@ -1,5 +1,5 @@
 {
-  "name": "ffaiz-quiz-app",
+  "name": "ffaiz-quiz-app-cli",
   "version": "1.0.0",
   "description": "This Is Quiz CLI Project Which Consists Of MCQs Questions Having 5 Marks Of Each Question.",
   "main": "index.js",
